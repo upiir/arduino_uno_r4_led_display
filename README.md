@@ -4,6 +4,12 @@ Arduino UNO R4 WIFI Led Matrix Display Animations
 **YOUTUBE VIDEO: https://youtu.be/Qpi0Y5bcvlQ** 
 
 
+
+Links from the video:
+- Arduino UNO R4 WIFI: https://store.arduino.cc/products/uno-r4-wifi
+- LED Badges video: https://youtu.be/MRTxTx8bgYg
+
+
 Animations:
 
 
