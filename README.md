@@ -16,14 +16,24 @@ Links from the video:
 
 
 **GIF Animations:**
+
+
 ![uno_r4_led_matrix__talk](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/1edc39e8-ea74-4675-9736-d8c87147d684)
+
 ![uno_r4_led_matrix__sound](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/e2999562-e3ef-413c-a782-b8f4698e2156)
+
 ![uno_r4_led_matrix__signal](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/c78ff41b-a77b-4c94-8a9c-3f7321b1079f)
+
 ![uno_r4_led_matrix__load](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/d7d779c9-20bf-4bcf-a9db-9ccaac3523e3)
+
 ![uno_r4_led_matrix__error_10fps](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/5e640eeb-f027-4047-9d04-deba7e080860)
+
 ![uno_r4_led_matrix__battery](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/98716f96-0071-42a0-9303-5e596763a0a4)
+
 ![uno_r4_led_matrix__arrows](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/958a7ece-4761-46a8-b534-b38608cc0f2e)
+
 ![uno_r4_led_matrix__arduino_logo](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/8c587151-6e76-4ee5-a558-50bd5d32db77)
+
 
 
 
