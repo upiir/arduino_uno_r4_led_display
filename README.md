@@ -10,6 +10,11 @@ Links from the video:
 - LED Badges video: https://youtu.be/MRTxTx8bgYg
 
 
+![THUMB_arduino_uno_r4_led_display](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/ad4fd0b2-5c8f-423d-bdf9-b2e30bcd0a1e)
+
+
+
+
 Screenshots from the video:
 
 ![CAMTASIA_uno_r4_led_anims (Time 0_06_28;25)](https://github.com/upiir/arduino_uno_r4_led_display/assets/117754156/7db83fc4-b86a-4402-8dd5-3b7fca0fdd39)
